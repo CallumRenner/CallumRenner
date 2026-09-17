@@ -1,6 +1,9 @@
 ## Hi, I’m Callum 👋
 
-I’m a developer who enjoys building useful things, learning new technologies, and turning ideas into working products.
+Main things i like doing that is software related:
+- Roblox Game Development (LUA)
+- Arduino (C++)
+- PC automations (Python)
 
 ### About me
 - 💻 I'm an Industrial Engineer at Ohio State University who wants to do all types of engineering
@@ -17,4 +20,4 @@ I’m a developer who enjoys building useful things, learning new technologies, 
 
 ---
 
-“Not just a vibecoder.”
+“AI Is a tool that helps make coding more efficient not replace it”
