@@ -10,12 +10,14 @@ Main things i like doing that is software related:
 - 🌱 Currently learning [C++]
 - 🎯 Looking to build projects that are practical, creative, and fun 
 
-### Tech stack
+### What I use
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/CallumRenner)
+[![Pastebin](https://img.shields.io/badge/Pastebin-View-blue?logo=pastebin)](https://pastebin.com/u/Weird_Dood)
 
 
 ---
